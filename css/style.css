@@ -868,6 +868,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transform: translateX(-50%);
   margin-left: 50%;
   transition: all ease-in-out 0.3s;
+  text-align: center;
 }
 
 #schedule .schedule-item h4 {
